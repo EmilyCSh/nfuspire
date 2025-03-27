@@ -1,0 +1,13 @@
+/.build
+/nfuspire
+nfuspire.so
+nfuspire.dylib
+nfuspire.dll
+nfuspire.a
+nfuspire.lib
+nfuspire-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
